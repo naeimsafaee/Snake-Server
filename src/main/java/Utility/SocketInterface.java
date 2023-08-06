@@ -1,0 +1,4 @@
+package Utility;
+
+interface SocketInterface {
+}
